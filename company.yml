@@ -22,3 +22,10 @@ spring:
     username: user
     password: password
     driver-class-name: com.mysql.jdbc.Driver
+
+---
+
+spring:
+  profiles: cloud
+
+message: Steve
