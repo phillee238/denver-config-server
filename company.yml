@@ -28,4 +28,4 @@ spring:
 spring:
   profiles: cloud
 
-message: Steve
+message: Steve changed it
